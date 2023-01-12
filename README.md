@@ -5,5 +5,5 @@
 ```
 
 ```diff
-- NOTE: To display gifs, the PDFS may need to be downloaded
+- NOTE: To display gifs on Pt3, the PDF needs to be downloaded. Github cannot display them in browser
 ```
