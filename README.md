@@ -4,6 +4,5 @@
 - The codebase the projects were developed on are confidential and thus cannot be shared.
 ```
 
-```diff
-- NOTE: To display gifs on Pt3, the PDF needs to be downloaded. Github cannot display them in browser.
-```
+NOTE: To see part 3 (INVERSE KINEMATICS), please visit https://github.com/Grantmartin2002/Inverse-Kinematics
+
